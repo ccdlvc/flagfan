@@ -1,0 +1,1 @@
+This project aims to become the strongest open source Chinese Chess engine.
